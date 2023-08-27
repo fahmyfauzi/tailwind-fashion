@@ -27,9 +27,13 @@ reference : [Wahidev Academy](https://www.youtube.com/playlist?list=PLIan8aHxsPj
     ```
 2. masuk ke dalam directori
     ```sh
-    cd comments-app
+    cd tailwind-fashion
     ```
-3. install extension livesrever
+3. buka vscode
+   ```
+    code .
+   ``` 
+5. install extension livesrever 
 
     [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
   
@@ -44,5 +48,6 @@ reference : [Wahidev Academy](https://www.youtube.com/playlist?list=PLIan8aHxsPj
 [Fahmy Fauzi ](https://github.com/fahmyfauzi)
 
 ## screanshot
-![ui-fashion](https://github.com/fahmyfauzi/tailwind-fashion/assets/58255031/3e8ee0b2-c787-4947-b367-524480751007)
+![241455676-3e8ee0b2-c787-4947-b367-524480751007](https://github.com/fahmyfauzi/tailwind-fashion/assets/58255031/d9d307b0-aa33-4425-aa1f-1d597c700408)
+
 
